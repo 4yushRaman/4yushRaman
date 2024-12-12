@@ -5,7 +5,7 @@
 
 ---
 
-> *I am an undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering with a deep passion for software development. I thrive on continuous learning and innovation, leveraging strong logical problem-solving skills to craft creative solutions to real-world challenges. My interests span across Flutter for cross-platform app development, and foundational concepts such as Data Structures and Algorithms (DSA), Database Management Systems (DBMS), and Operating Systems (OS). I find fulfillment in contributing to Open Source projects and collaborating with technical communities to create impactful solutions. Project-based learning experiences and teamwork are integral to my growth, driving me towards my goal of creating value and fostering positive change through my work.*
+> *I am an undergraduate student pursuing a Bachelor's degree in Electronics and Communication Engineering with a deep passion for software development. I thrive on continuous learning and innovation, leveraging strong logical problem-solving skills to craft creative solutions to real-world challenges. My interests span across Flutter for cross-platform app development, and foundational concepts such as Data Structures and Algorithms (DSA). I find fulfillment in contributing to Open Source projects and collaborating with technical communities to create impactful solutions. Project-based learning experiences and teamwork are integral to my growth, driving me towards my goal of creating value and fostering positive change through my work.*
 
 ---
 
@@ -72,5 +72,4 @@
 ---
 
 ## 🌐 Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raniasmit/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raniasmit.github.io/newportfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4yushraman/)
